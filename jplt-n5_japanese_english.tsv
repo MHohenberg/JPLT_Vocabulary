@@ -77,957 +77,478 @@
 駅 (eki)	 station
 鉛筆 (enpitsu)	 pencil
 服 (fuku)	 clothes
-
 吹く (fuku)	 to blow (wind)
-
 二人 (futari)	 two people, pair
-
 二日 (futsuka)	 second day of the month, two days
-
 降る (furu)	 to fall (rain)
-
 古い (furui)	 old (not person)
-
 封筒 (fuutou)	 envelope
-
 冬 (fuyu)	 winter
-
 学校 (gakkou)	 school
-
 学生 (gakusei)	 student
-
 外国 (gaikoku)	 foreign country
-
 外国人 (gaikokujin)	 foreigner
-
 元気 (genki)	 lively, full of spirit
-
 玄関 (genkan)	 entranceway, entrance hall
-
 月曜日 (getsuyoubi)	 Monday
-
 銀行 (ginkou)	 bank
-
 牛肉 (gyuuniku)	 beef
-
 牛乳 (gyuunyuu)	 milk
-
 五 (go)	 five
-
 午後 (gogo)	 afternoon, p.m.
-
 ご飯 (gohan)	 cooked rice, meal
-
 午前 (gozen)	 morning, a.m.
-
 歯 (ha)	 tooth
-
 八 (hachi)	 eight
-
 葉書 (hagaki)	 postcard
-
 母 (haha)	 mother
-
 入る (hairu)	 to enter, to go into
-
 灰皿 (haizara)	 ashtray
-
 始め (hajime)	 beginning, start
-
 初めて (hajimete)	 for the first time
-
 始まる (hajimaru)	 to begin, to start
-
 箱 (hako)	 box, chest
-
 半分 (hanbun)	 half
-
 花 (hana)	 flower, blossom
-
 鼻 (hana)	 nose
-
 話 (hanashi)	 talk, speech, chat
-
 話す (hanasu)	 to talk, to speak
-
 晴れる (hareru)	 to clear up
-
 春 (haru)	 spring, springtime
-
 貼る (haru)	 to stick, to paste
-
 箸 (hashi)	 chopsticks
-
 橋 (hashi)	 bridge
-
 走る (hashiru)	 to run
-
 二十歳 (hatachi)	 twenty years old
-
 働く (hataraku)	 to work
-
 二十日 (hatsuka)	 twentieth day of the month, twenty days
-
 早い (hayai)	 early
-
 早く (hayaku)	 early, soon, quickly
-
 速い (hayai)	 fast, quick
-
 辺 (hen)	 area, vicinity
-
 下手 (heta)	 unskillful
-
 部屋 (heya)	 room, chamber
-
 日 (hi)	 day, sun
-
 火 (hi)	 fire, flame
-
 左 (hidari)	 left, left hand side
-
 東 (higashi)	 east
-
 弾く (hiku)	 to play (piano, guitar)
-
 引く (hiku)	 to pull, to draw
-
 低い (hikui)	 low (rank), short (height)
-
 飛行機 (hikouki)	 aeroplane, airplane
-
 暇 (hima)	 spare time, free time
-
 広い (hiroi)	 spacious, vast, wide
-
 昼 (hiru)	 noon, midday
-
 昼ご飯 (hirugohan)	 lunch, midday meal
-
 人 (hito)	 person
-
 一人 (hitori)	 one person, alone
-
 一つ (hitotsu)	 one
-
 本 (hon)	 book
-
 本棚 (hondana)	 bookshelf, bookcase
-
 本当 (hontou)	 truth, reality
-
 他 (hoka)	 other, the rest
-
 百 (hyaku)	 hundred
-
 一 (ichi)	 one
-
 一番 (ichiban)	 number one, first, first place
-
 一日 (ichinichi)	 one day
-
 家 (ie)	 house, residence
-
 いい (ii)	 good
-
 否 (iie)	 no, nay
-
 池 (ike)	 pond
-
 行く (iku)	 to go
-
 幾ら (ikura)	 how much, how many
-
 幾つ (ikutsu)	 how many, how old
-
 今 (ima)	 now, the present time
-
 意味 (imi)	 meaning, significance
-
 妹 (imouto)	 younger sister
-
 犬 (inu)	 dog
-
 入れる (ireru)	 to put in, to let in
-
 入口 (iriguchi)	 entrance, gate
-
 色 (iro)	 color, complexion
-
 色々 (iroiro)	 various
-
 要る (iru)	 to need, to want
-
 医者 (isha)	 (medical) doctor, physician
-
 忙しい (isogashii)	 busy, occupied
-
 一緒 (issho)	 together
-
 椅子 (isu)	 chair, stool
-
 痛い (itai)	 painful, sore
-
 五日 (itsuka)	 fifth day of the month, five days
-
 いつも (itsumo)	 always, usually
-
 五つ (itsutsu)	 five
-
 言う (iu)	 to say, to utter
-
 嫌 (iya)	 disagreeable, detestable
-
 字引 (jibiki)	 dictionary
-
 自分 (jibun)	 myself, yourself, oneself
-
 自動車 (jidousha)	 automobile
-
 時間 (jikan)	 time, hours
-
 辞書 (jisho)	 dictionary
-
 自転車 (jitensha)	 bicycle
-
 上手 (jouzu)	 skill, skillful
-
 授業 (jugyou)	 lesson, class work
-
 鞄 (kaban)	 bag
-
 花瓶 (kabin)	 (flower) vase
-
 角 (kado)	 corner, edge
-
 帰る (kaeru)	 to return, to come home
-
 返す (kaesu)	 to return (something)
-
 鍵 (kagi)	 key, lock
-
 階段 (kaidan)	 stairs, stairway
-
 買物 (kaimono)	 shopping
-
 会社 (kaisha)	 company, corporation
-
 書く (kaku)	 to write, to compose
-
 紙 (kami)	 paper
-
 漢字 (kanji)	 Chinese characters
-
 体 (karada)	 body, torso
-
 辛い (karai)	 spicy, hot
-
 借りる (kariru)	 to borrow
-
 軽い (karui)	 light (not heavy)
-
 傘 (kasa)	 umbrella
-
 貸す (kasu)	 to lend, to loan
-
 方 (kata)	 person
-
 家庭 (katei)	 home, family, household
-
 買う (kau)	 to buy, to purchase
-
 可愛い (kawaii)	 cute, adorable
-
 家族 (kazoku)	 family, members of a family
-
 風 (kaze)	 wind, breeze
-
 風邪 (kaze)	 cold, influenza
-
 川 (kawa)	 river, stream
-
 警官 (keikan)	 police officer, policeman
-
 結婚 (kekkon)	 marriage
-
 結構 (kekkou)	 spenlid, nice, okay
-
 今朝 (kesa)	 this morning
-
 消す (kesu)	 to erase, to delete
-
 木 (ki)	 tree
-
 消える (kieru)	 to go out, to vanish
-
 黄色い (kiiroi)	 yellow
-
 昨日 (kinou)	 yesterday
-
 金曜日 (kin’youbi)	 Friday
-
 切符 (kippu)	 ticket
-
 嫌い (kirai)	 dislike, hate
-
 切る (kiru)	 to cut
-
 着る (kiru)	 to wear, to put on
-
 喫茶店 (kissaten)	 coffee shop
-
 北 (kita)	 north
-
 汚い (kitanai)	 dirty, filthy
-
 切手 (kitte)	 stamp (postage)
-
 九 (kyuu)	 nine
-
 声 (koe)	 voice
-
 ここ (koko)	 here
-
 九日 (kokonoka)	 ninth day of the month, nine days
-
 困る (komaru)	 to be troubled, to be worried
-
 今晩 (konban)	 tonight, this evening
-
 今週 (konshuu)	 this week
-
 交番 (kouban)	 police box
-
 紅茶 (koucha)	 black tea
-
 公園 (kouen)	 (public) park
-
 子供 (kodomo)	 child, children
-
 答える (kotaeru)	 to answer, to reply
-
 言葉 (kotoba)	 language, dialect
-
 今年 (kotoshi)	 this year
-
 交差点 (kousaten)	 crossing, intersection
-
 聞く (kiku)	 to hear, to listen
-
 奇麗 (kirei)	 pretty, lovely, beautiful
-
 去年 (kyonen)	 last year
-
 今日 (kyou)	 today, this day
-
 兄弟 (kyoudai)	 siblings, brothers and sisters
-
 教室 (kyoushitsu)	 classroom, department
-
 口 (kuchi)	 mouth, opening, hole
-
 果物 (kudamono)	 fruit
-
 曇り (kumori)	 cloudiness, cloudy weather
-
 国 (kuni)	 country, state, region
-
 暗い (kurai)	 dark, gloomy
-
 黒い (kuroi)	 black, dark
-
 来る (kuru)	 to come
-
 車 (kuruma)	 car, automobile
-
 薬 (kusuri)	 medicine
-
 靴 (kutsu)	 shoes, boots
-
 靴下 (kutsushita)	 socks
-
-
 Advertisement
-
 町 (machi)	 town, block
-
 まだ (mada)	 still, not yet
-
 前 (mae)	 front, ahead, previous
-
 毎朝 (maiasa)	 every morning
-
 毎晩 (maiban)	 every night
-
 毎月 (maitsuki/maigetsu)	 every month
-
 毎日 (mainichi)	 every day
-
 毎週 (maishuu)	 every week
-
 毎年 (maitoshi)	 every year, yearly
-
 窓 (mado)	 window
-
 曲がる (magaru)	 to bend, to curve
-
 万 (man)	 ten thousand
-
 丸い (marui)	 round, circular
-
 また (mata)	 again, also
-
 待つ (matsu)	 to wait, to look forward to
-
 不味い (mazui)	 unappetizing, unsavory
-
 目 (me)	 eye, eyeball
-
 眼鏡 (megane)	 spectacles, glasses
-
 道 (michi)	 road, street, way
-
 緑 (midori)	 green
-
 磨く (migaku)	 to polish, to shine
-
 右 (migi)	 right, right hand side
-
 短い (mijikai)	 short
-
 耳 (mimi)	 ear
-
 南 (minami)	 south
-
 皆 (minna)	 all, everyone
-
 見る (miru)	 to see, to look, to watch
-
 店 (mise)	 store, shop
-
 見せる (miseru)	 to show, to display
-
 水 (mizu)	 water
-
 門 (mon)	 gate
-
 問題 (mondai)	 question, problem
-
 持つ (motsu)	 to hold (in one’s hands)
-
 木曜日 (mokuyoubi)	 Thursday
-
 六日 (muika)	 sixth day of the month, six days
-
 向こう (mukou)	 opposite side, other side
-
 村 (mura)	 village
-
 難しい (muzukashii)	 difficult, hard
-
 長い (nagai)	 long, lengthy
-
 中 (naka)	 inside, in, among
-
 鳴く (naku)	 to sing (bird)
-
 無くす (nakusu)	 to lose something
-
 名前 (namae)	 name, full name
-
 何 (nani)	 what
-
 七日 (nanoka)	 seventh day of the month, seven days
-
 並ぶ (narabu)	 to stand in a line
-
 並べる (naraberu)	 to line up
-
 習う (narau)	 to be taught, to learn (from a teacher)
-
 なる (naru)	 to become
-
 夏 (natsu)	 summer
-
 猫 (neko)	 cat
-
 寝る (neru)	 to go to bed
-
 二 (ni)	 two
-
 日曜日 (nichiyoubi)	 Sunday
-
 賑やか (nigiyaka)	 bustling, busy, lively
-
 肉 (niku)	 flesh, meat
-
 荷物 (nimotsu)	 luggage, baggage
-
 西 (nishi)	 west
-
 庭 (niwa)	 garden, yard
-
 登る (noboru)	 to ascend, to go up
-
 飲物 (nomimono)	 drink, beverage
-
 飲む (nomu)	 to drink, to gulp
-
 乗る (noru)	 to get on (train, plane, bus, ship)
-
 脱ぐ (nugu)	 to take off (clothes, shoes)
-
 伯母さん (obasan)	 aunt
-
 お祖母さん (obaasan)	 grandmother
-
 お弁当 (obentou)	 Japanese lunch box
-
 覚える (oboeru)	 to memorize, to remember
-
 お茶 (ocha)	 tea
-
 お風呂 (ofuro)	 bath
-
 美味しい (oishii)	 delicious, tasty
-
 お母さん (okaasan)	 mother
-
 お金 (okane)	 money
-
 お菓子 (okashi)	 sweets, candy
-
 起きる (okiru)	 to get up, to rise
-
 置く (oku)	 to put, to place
-
 奥さん (okusan)	 wife, your wife, his wife
-
 お巡りさん (omawarisan)	 police officer
-
 重い (omoi)	 heavy, weighty
-
 面白い (omoshiroi)	 interesting, fascinating
-
 お腹 (onaka)	 stomach
-
 音楽 (ongaku)	 music
-
 女 (onna)	 female, woman
-
 同じ (onaji)	 same, identical
-
 お姉さん (oneesan)	 elder sister
-
 お兄さん (oniisan)	 elder brother
-
 女の子 (onna no ko)	 girl
-
 多い (ooi)	 many, numerous, a lot
-
 大きい (ookii)	 big, large, great
-
 大勢 (oozei)	 many, crowd, great number of people
-
 降りる (oriru)	 to descend, to get off
-
 お皿 (osara)	 plate, dish
-
 教える (oshieru)	 to teach, to instruct
-
 遅い (osoi)	 slow, late
-
 押す (osu)	 to push, to press
-
 お手洗い (otearai)	 toilet, restroom
-
 男 (otoko)	 man, male
-
 男の子 (otoko no ko)	 boy
-
 大人 (otona)	 adult
-
 一昨日 (ototoi)	 day before yesterday
-
 お父さん (otousan)	 father, dad
-
 一昨年 (ototoshi)	 year before last
-
 弟 (otouto)	 younger brother
-
 終わる (owaru)	 to finish, to end
-
 泳ぐ (oyogu)	 to swim
-
 来月 (raigetsu)	 next month
-
 来年 (rainen)	 next year
-
 来週 (raishuu)	 next week
-
 冷蔵庫 (reizouko)	 refrigerator
-
 練習 (renshuu)	 practice
-
 六 (roku)	 six
-
 廊下 (rouka)	 corridor, hallway
-
 旅行 (ryokou)	 travel, trip
-
 料理 (ryouri)	 cooking, cuisine
-
 両親 (ryoushin)	 parents, both parents
-
 留学生 (ryuugakusei)	 overseas student
-
 歳 (sai)	 years old
-
 財布 (saifu)	 purse, wallet
-
 魚 (sakana)	 fish
-
 酒 (sake)	 alcohol, sake
-
 先 (saki)	 previous, prior, former
-
 咲く (saku)	 to bloom
-
 作文 (sakubun)	 writing (an essay), composition
-
 寒い (samui)	 cold
-
 三 (san)	 three
-
 散歩 (sanpo)	 walk, stroll
-
 再来年 (sarainen)	 year after next
-
 砂糖 (satou)	 sugar
-
 背 (se)	 height, stature
-
 背広 (sebiro)	 business suit
-
 生徒 (seito)	 pupil
-
 石鹸 (sekken)	 soap
-
 狭い (semai)	 narrow, confined
-
 千 (sen)	 thousand
-
 先月 (sengetsu)	 last month
-
 先生 (sensei)	 teacher, master, doctor
-
 先週 (senshuu)	 last week
-
 洗濯 (sentaku)	 washing, laundry
-
 四 (shi, yon)	 four
-
 七 (shichi, nana)	 seven
-
 写真 (shashin)	 photograph, photo, picture
-
 仕事 (shigoto)	 work, job
-
 閉まる (shimaru)	 to be shut, to close
-
 閉める (shimeru)	 to close, to shut
-
 締める (shimeru)	 to tie, to fasten
-
 新聞 (shinbun)	 newspaper
-
 死ぬ (shinu)	 to die, to pass away
-
 塩 (shio)	 salt
-
 白い (shiroi)	 white
-
 知る (shiru)	 to be aware of, to know
-
 下 (shita)	 below, down, under
-
 質問 (shitsumon)	 question, inquiry
-
 静か (shizuka)	 quiet, silent
-
 食堂 (shokudou)	 dining room, dining hall
-
 醤油 (shouyu)	 soy sauce
-
 宿題 (shukudai)	 homework
-
 側 (soba)	 near, close, beside
-
 空 (sora)	 sky
-
 外 (soto)	 outside, exterior
-
 掃除 (souji)	 cleaning, sweeping
-
 すぐ	 immediately
-
 水曜日 (suiyoubi)	 Wednesday
-
 好き (suki)	 liking, fondness, love
-
 少し (sukoshi)	 small quantity, little
-
 少ない (sukunai)	 few, a little
-
 住む (sumu)	 to live, to reside
-
 する (suru)	 to do
-
 吸う (suu)	 to smoke, to breathe in
-
 座る (suwaru)	 to sit
-
 涼しい (suzushii)	 cool, refreshing
-
 煙草 (tabako)	 tabacco, cigarette
-
 食べ物 (tabemono)	 food
-
 食べる (taberu)	 to eat
-
 多分 (tabun)	 perhaps, probably
-
 大変 (taihen)	 very, greatly, immense
-
 大切 (taisetsu)	 important, necessary
-
 大使館 (taishikan)	 embassy
-
 高い (takai)	 high, tall, expensive
-
 沢山 (takusan)	 a lot, plenty, many
-
 卵 (tamago)	 egg, spawn
-
 誕生日 (tanjoubi)	 birthday
-
 楽しい (tanoshii)	 enjoyable, fun
-
 頼む (tanomu)	 to request, to beg, to ask
-
 建物 (tatemono)	 building
-
 立つ (tatsu)	 to stand, to rise
-
 手 (te)	 hand
-
 手紙 (tegami)	 letter
-
 天気 (tenki)	 weather
-
 戸 (to)	 door
-
 飛ぶ (tobu)	 to fly
-
 友達 (tomodachi)	 friend, companion
-
 止まる (tomaru)	 to stop (moving)
-
 隣 (tonari)	 neighbor, next to
-
 十日 (tooka)	 tenth day of the month, ten days
-
 鳥 (tori)	 bird
-
 取る (toru)	 to take, to pick up
-
 年 (toshi)	 year, age
-
 図書館 (toshokan)	 library
-
 時計 (tokei)	 watch, clock
-
 時々 (tokidoki)	 sometimes, at times
-
 所 (tokoro)	 place, spot, scene
-
 遠い (tooi)	 far, distant
-
 撮る (toru)	 to take (a photo), to record (a video)
-
 とても (totemo)	 very, exceedingly
-
 疲れる (tsukareru)	 to get tired
-
 次 (tsugi)	 next, following
-
 使う (tsukau)	 to use, to make use of
-
 一日 (tsuitachi)	 first day of the month
-
 着く (tsuku)	 to arrive at, to reach
-
 机 (tsukue)	 desk
-
 作る (tsukuru)	 to make, to produce
-
 詰まらない (tsumaranai)	 dull, uninteresting
-
 冷たい (tsumetai)	 cold (to the touch)
-
 勤める (tsutomeru)	 to work (for), to be employed (at)
-
 強い (tsuyoi)	 strong, powerful
-
 上 (ue)	 above, up, over
-
 生まれる (umareru)	 to be born
-
 海 (umi)	 sea, ocean
-
 売る (uru)	 to sell
-
 煩い (urusai)	 noisy, loud
-
 後ろ (ushiro)	 back, behind, rear
-
 薄い (usui)	 thin, pale, light
-
 歌 (uta)	 song
-
 歌う (utau)	 to sing
-
 上着 (uwagi)	 coat, jacket
-
 若い (wakai)	 young, youthful
-
 分かる (wakaru)	 to understand, to comprehend
-
 悪い (warui)	 bad, poor, inferior
-
 忘れる (wasureru)	 to forget
-
 私 (watashi)	 I, me
-
 渡る (wataru)	 to cross over
-
 渡す (watasu)	 to hand over, to hand in
-
 山 (yama)	 mountain
-
 やる (yaru)	 to do
-
 野菜 (yasai)	 vegetable
-
 安い (yasui)	 cheap, inexpensive
-
 休み (yasumi)	 rest, recess
-
 休む (yasumu)	 to be absent, to take a day off
-
 呼ぶ (yobu)	 to call out, to call
-
 四日 (yokka)	 fourth day of the month, four days
-
 横 (yoko)	 horizontal
-
 読む (yomu)	 to read
-
 夜 (yoru)	 evening, night
-
 洋服 (youfuku)	 Western-style clothes
-
 八日 (youka)	 eight day of the month, eight days
-
 弱い (yowai)	 weak, frail, delicate
-
 雪 (yuki)	 snow
-
 ゆっくり (yukkuri)	 slowly, at ease
-
 郵便局 (yuubinkyoku)	 post office
-
 有名 (yuumei)	 famous
-
 雑誌 (zasshi)	 journal, magazine
-
 全部 (zenbu)	 all, entire, whole
-
- 
-
-KATAKANA
-
 アパート (apaato)	 apartment
-
 バス (basu)	 bus
-
 ベッド (beddo)	 bed
-
 デパート (depaato)	 department store
-
 ドア (doa)	 door (Western style)
-
 エレベータ (erebeeta)	 elevator
-
 フォーク (fooku)	 fork
-
 ギター (gitaa)	 guitar
-
 グラム (guramu)	 gram
-
 ホテル (hoteru)	 hotel
-
 カメラ (kamera)	 camera
-
 キロ (kiro)	 kilogram
-
 コーヒー (koohii)	 coffee
-
 コート (kooto)	 coat
-
 コップ (koppu)	 glass
-
 クラス (kurasu)	 class
-
 パーティー (paatii)	 party
-
 ペン (pen)	 pen
-
 ペット (petto)	 pet
-
 ポケット (poketto)	 pocket
-
 プール (puuru)	 swimming pool
-
 セーター (seetaa)	 sweater, jumper
-
 シャワー (shawaa)	 shower
-
 シャツ (shatsu)	 shirt
-
 スカート (sukaato)	 skirt
-
 スポーツ (supootsu)	 sport
-
 スプーン (supuun)	 spoon
-
 スリッパ (surippa)	 slippers
-
 ストーブ (sutoobu)	 heater, stove
-
 タクシー (takushii)	 taxi
-
 テーブル (teeburu)	 table
-
 テープ (teepu)	 tape
-
 テープレコーダー (teepu rekoodaa)	 tape recorder
-
 テレビ (terebi)	 television, TV
-
 テスト (tesuto)	 test
-
 トイレ (toire)	 toilet, restroom
-
 ゼロ (zero)	 zero, naught
 ズボン (zubon)	 trousers, pants
